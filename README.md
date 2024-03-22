@@ -1,2 +1,2 @@
 # UdemyPython
-examples
+examples and notes.
